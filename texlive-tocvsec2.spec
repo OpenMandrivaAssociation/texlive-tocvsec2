@@ -1,12 +1,12 @@
-# revision 23444
+# revision 33146
 # category Package
 # catalog-ctan /macros/latex/contrib/tocvsec2
-# catalog-date 2010-02-28 10:58:14 +0100
+# catalog-date 2014-03-10 12:04:22 +0100
 # catalog-license lppl1.3
-# catalog-version 1.2b
+# catalog-version 1.3a
 Name:		texlive-tocvsec2
-Version:	1.2b
-Release:	6
+Version:	1.3a
+Release:	1
 Summary:	Section numbering and table of contents control
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tocvsec2
@@ -51,16 +51,3 @@ Contents on a section by section basis.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2b-2
-+ Revision: 757002
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.2b-1
-+ Revision: 719773
-- texlive-tocvsec2
-- texlive-tocvsec2
-- texlive-tocvsec2
-
