@@ -6,7 +6,7 @@
 # catalog-version 1.3a
 Name:		texlive-tocvsec2
 Version:	1.3a
-Release:	2
+Release:	3
 Summary:	Section numbering and table of contents control
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tocvsec2
