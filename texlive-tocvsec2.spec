@@ -3,7 +3,7 @@ Version:	33146
 Release:	2
 Summary:	Section numbering and table of contents control
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tocvsec2
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tocvsec2
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tocvsec2.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tocvsec2.doc.r%{version}.tar.xz
